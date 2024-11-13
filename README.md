@@ -1,4 +1,4 @@
-# NUTRITION PROJECT
+# NUTRITION (Work in Progress)
 
 ## Problem Statement
 
@@ -6,8 +6,9 @@ I want to analyse food contents, to create healthy menus.
 
 ## Technologies Used
 
-### Programming languages
+### Programming Language
 Python (https://docs.python.org/3.11/)
 - Pandas (https://pandas.pydata.org/docs/)
 
+### Query Language
 MySQL (https://dev.mysql.com/doc/)
