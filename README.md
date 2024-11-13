@@ -1,4 +1,4 @@
-# NUTRITION (Work in Progress)
+# NUTRITION
 
 ## Problem Statement
 
